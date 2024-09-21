@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.alirezat775:carousel-view:1.1.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/92f80c01246d52ee9dc7f7780ed73fac/transformed/jetified-carousel-view-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92f80c01246d52ee9dc7f7780ed73fac/transformed/jetified-carousel-view-1.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92f80c01246d52ee9dc7f7780ed73fac/transformed/jetified-carousel-view-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

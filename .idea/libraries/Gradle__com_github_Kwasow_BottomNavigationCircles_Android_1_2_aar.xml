@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Kwasow:BottomNavigationCircles-Android:1.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/42426264f25446a2a8a8477bd277a50a/transformed/jetified-BottomNavigationCircles-Android-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42426264f25446a2a8a8477bd277a50a/transformed/jetified-BottomNavigationCircles-Android-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42426264f25446a2a8a8477bd277a50a/transformed/jetified-BottomNavigationCircles-Android-1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
