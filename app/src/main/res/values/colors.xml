@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Rohan Programmer on 18/02/24, 6:42 pm
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  * Last modified 18/02/24, 6:42 pm
+  ~  */
+  -->
+
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#234f32</color>
+    <color name="purple_700">#234f32</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_greens">#BBCEF3</color>
+
+
+    <color name="sky_blue">#234f32</color>
+    <color name="light_green">#234f32</color>
+    <color name="dark_green">#234f32</color>
+<!--    <color name="sky_blue">#2fc3d8</color>-->
+<!--    <color name="light_green">#25d980</color>-->
+<!--    <color name="dark_green">#08c27f</color>-->
+    <color name="red">#f70000</color>
+    <color name="colorGray1">#E1DFDF</color>
+    <color name="gray">#797979</color>
+</resources>

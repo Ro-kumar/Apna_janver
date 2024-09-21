@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by Rohan Programmer on 4/23/24, 2:52 AM
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  * Last modified 4/23/24, 2:52 AM
+  ~  */
+  -->
+
+<shape android:shape="line"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<solid android:color="@color/dark_green"/>
+    <stroke android:color="@color/dark_green"/>
+</shape>

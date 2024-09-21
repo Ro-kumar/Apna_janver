@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by Rohan Programmer on 4/23/24, 3:25 AM
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  * Last modified 4/23/24, 3:25 AM
+  ~  */
+  -->
+
+<LinearLayout android:layout_width="60dp"
+    android:layout_height="60dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="10dp"
+        app:strokeWidth="1dp"
+        android:layout_margin="4dp"
+        app:strokeColor="@color/dark_green">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/cow_cat"/>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

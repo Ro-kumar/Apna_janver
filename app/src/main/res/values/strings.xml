@@ -1,0 +1,142 @@
+<!--
+  ~ /**
+  ~  * Created by Rohan Programmer on 18/02/24, 6:42 pm
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  * Last modified 18/02/24, 6:42 pm
+  ~  */
+  -->
+
+<resources>
+    <string name="app_name">पशु Mart</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgrot">Forgot Password!</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="refercode">Refer Code</string>
+    <string name="code">Code</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="viewall">View All</string>
+    <string name="near_by">Near By</string>
+    <string name="near_km">Near by your house max to max 20Km</string>
+    <string name="animal_name">Cattle Cow</string>
+    <string name="distrance">10 Km</string>
+    <string name="address">1/805 Sector J, Jankipuram, Lucknow,Uttar Pradesh</string>
+    <string name="cow">Cow</string>
+    <string name="hen">Hen</string>
+    <string name="horse">Horse</string>
+    <string name="buffalo">Buffalo</string>
+    <string name="egg">Egg</string>
+    <string name="mouse">Mouse</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+
+
+    <string name="change">Change</string>
+    <string name="menu1">Update Profile</string>
+    <string name="menu2">My Booking</string>
+    <string name="profileupdate">Profile Update</string>
+    <string name="all_mammber_chat">Chat</string>
+    <string name="price_animal">Price</string>
+    <string name="menu3">About</string>
+    <string name="menu4">Share with Friend</string>
+    <string name="menu6">My Wallet &amp; Refer ID</string>
+    <string name="label_3">Wallet</string>
+    <string name="string_label_4">Notification</string>
+    <string name="label_5">Setting</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="transections">Transaction</string>
+
+    <string name="menu5">Refer &amp; Earn</string>
+    <string name="addmyproduct">Add Product</string>
+    <string name="trams">Terms &amp; Condition</string>
+    <string name="referearn" translatable="false"><![CDATA[Refer & Earn]]></string>
+    <string name="hi1" translatable="false"><![CDATA[Certified & Trusted Pros!]]></string>
+    <string name="langu">Language</string>
+    <string name="contect">Contact</string>
+    <string name="logout">Logout</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="search">Cow, Hen, Gote, Buffalo</string>
+    <string name="eagtiyplus">Only individuals aged 18+ or older are eligible to register for this service.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">₹ 30,000</string>
+    <string name="notification_title">Buy low price punganur cow in waltair main road</string>
+    <string name="notification_date">28 Feb 2023</string>
+    <string name="notification_time">10:30 Am</string>
+    <string name="lowtohigh">Low to High</string>
+    <string name="hightolow">High to Low</string>
+    <string name="map">Map</string>
+    <string name="oner">"Owner :- "</string>
+    <string name="name_oner">Rohan Kumar</string>
+    <string name="wight">120/KG</string>
+    <string name="wight_name">Wight :- </string>
+    <string name="age">Age :- </string>
+    <string name="dilvery_count">Delivery :- </string>
+    <string name="dilvery_last">Last Delivery :- </string>
+    <string name="age_txt">20 Year</string>
+    <string name="dilvercount_txt">2/Time</string>
+    <string name="lastdilver_txt">20-May2023</string>
+    <string name="address_tile">Address :- </string>
+    <string name="call">Call</string>
+    <string name="booking">Booking</string>
+    <string name="gendar">Gender :- </string>
+    <string name="female">Female</string>
+    <string name="category">Category</string>
+    <string name="search_hint">Search</string>
+    <string name="wallet">Wallet</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="walletmoney">Apna Janver Money</string>
+    <string name="balance">Balance :-</string>
+    <string name="transaction_his">Transaction History</string>
+    <string name="orderno">ORDERED ON</string>
+    <string name="date">Date</string>
+    <string name="pricetex">Price</string>
+    <string name="feedback">Please Here Feedback</string>
+    <string name="debite">Debited</string>
+    <string name="creadit">Credited</string>
+    <string name="account">Account No.</string>
+    <string name="ifsc">IFSC</string>
+    <string name="name_account">Name</string>
+    <string name="branch">Branch</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="or">OR</string>
+    <string name="upi">UPI Id</string>
+    <string name="submit">Submit</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="pleaseproblem">Please Fill Your Problem</string>
+    <string name="referid">Refer ID  :-  Apn1235</string>
+    <string name="sendyourmessage">Send Your Message</string>
+    <string name="sell">Sell</string>
+    <string name="sell_details">Sell Details</string>
+    <string name="ownername">Owner Name</string>
+    <string name="animalname">Animal Name</string>
+    <string name="wights">Wight</string>
+    <string name="ages">Age</string>
+    <string name="genders">Gender</string>
+    <string name="lastdelivery">Last Delivery</string>
+    <string name="addresss">Address</string>
+    <string name="Delivery_date">Delivery Date</string>
+    <string name="discription">Description</string>
+    <string name="photo_upload">Photo Upload</string>
+    <string name="upload">Upload</string>
+    <string name="enquriy">Enquiry</string>
+    <string name="about_us">Terms and Conditions refers to a common and important legal agreement between a business and a customer or end user. Terms and Conditions set out the terms that apply to the relationship, and the conditions that must be met by both parties, such as what the user must not do when using the site or service, and what rights the business maintains.</string>
+
+
+    <string-array name="planets_array">
+        <item>Select UPI</item>
+        <item>Google Pay</item>
+        <item>PhonePe</item>
+        <item>Paytm</item>
+
+    </string-array>
+
+</resources>

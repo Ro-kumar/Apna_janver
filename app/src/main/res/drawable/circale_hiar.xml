@@ -1,0 +1,18 @@
+<!--
+  ~ /**
+  ~  * Created by Rohan Programmer on 4/20/24, 5:31 PM
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  * Last modified 8/23/21, 9:56 AM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+            <solid android:color="@color/sky_blue" />
+
+        </shape>
+    </item>
+</selector>
